@@ -2,7 +2,7 @@
 
 # What Happens When You Type a URL into Your Browser?
 
-When you type a URL like [https://google.com](https://google.com) into your browser, **six crucial steps** occur behind the scenes:
+When you type a URL like [https://google.com](https://google.com) into your browser and press <code>ENTER</code>, **six crucial steps** occur behind the scenes:
 
 ---
 
